@@ -1,0 +1,32 @@
+{
+    "user": [
+        {
+        "name": "Jassa",
+        "username": "TheRichpost",
+        "email": "demo@gmail.com",
+        "phone": "98989898",
+        "id": 7
+        },
+        {
+        "name": "Ajay Kumar",
+        "username": "Jassa",
+        "email": "therichposts@gmail.com",
+        "phone": "98989898",
+        "id": 8
+        },
+        {
+        "name": "Ajooni",
+        "username": "Ariti",
+        "email": "ajooni@gmail.com",
+        "phone": "98498",
+        "id": 9
+        },
+        {
+        "name": "Alisha",
+        "username": "Alisha",
+        "email": "alsha@gmail.com",
+        "phone": "989898",
+        "id": 10
+        }
+    ]
+}
